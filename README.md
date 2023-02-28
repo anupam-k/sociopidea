@@ -3,7 +3,6 @@
 ![medicare (3)](https://user-images.githubusercontent.com/91872149/218698623-9a13a1be-7ec5-4c06-80c8-f00d1e302e9e.png)
 
 ## _Tech Stack_
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
